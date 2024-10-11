@@ -1,8 +1,6 @@
 package com.bridgelabz.invoicegenerator;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
 public class InvoiceGeneratorTest {
 
     @Test
